@@ -1,0 +1,51 @@
+
+.leftpanel, .leftFooter {
+    float: left;
+}
+
+.rightpanel, .rightFooter {
+    float: right;
+}
+
+
+input {
+    width: 450px;
+    margin: 10px;
+}
+
+a {
+    margin-left: 20px;
+}
+
+
+img {
+    height: 92px;
+    width: 272px;
+}
+
+header {
+    height: 30px;
+}
+
+footer {
+    background-color: rgb(242, 242, 242);
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+
+main {
+    position: fixed;
+    width: 100%;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.main img {
+    display: block;
+}
+
+.main input {
+    margin-top: 50px;
+}
